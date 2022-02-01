@@ -1,0 +1,107 @@
+aside.menu {
+    width: 250px;
+    padding: 10px;
+    height: 100%;
+    display: block;
+    padding-top: 40px !important;
+    background-color: #fff;
+    float: left;
+    position: fixed;
+    bottom: 0px;
+    padding-top: 130px !important;
+}
+.container.container-app {
+    max-width: none !important;
+    width: calc(100% - 250px) !important;
+    float: right;
+    padding-top: 93px !important;
+    display: block;
+    margin: 0px !important;
+}
+.button.is-warning {
+    background-color: #e07000 !important;
+    border-color: transparent;
+    color: rgb(255 255 255) !important;
+    font-weight: bold !important;
+}
+.menu-list a.is-active {
+    background-color: #ffffff !important;
+    color: #363636 !important;
+    font-weight: bold;
+    border-left: 5px solid #e07000;
+}
+aside.menu p.menu-label {
+    margin-bottom: 25px;
+}
+img.img-carrito {
+    height: 200px !important;
+    max-width: 100% !important;
+    width: auto !important;
+    margin: auto;
+}
+.card-content .content h4 {
+    font-size: 16px;
+    height: 38px;
+    overflow: hidden;
+    /* white-space: nowrap; */
+    text-overflow: ellipsis;
+}
+.tile.is-ancestor {
+    flex: none !important;
+    display: block !important;
+    flex-basis: auto;
+}
+.tile.is-parent {
+    display: block !important;
+    flex: none;
+    float: left;
+    width: 25%;
+    margin: auto;
+    flex: auto;
+}
+@media (min-width:1500px) {
+    .tile.is-parent {
+        width: 20%;
+    }
+}
+img.img-carrito {
+    height: 100% !important;
+    max-width: 100% !important;
+    width: auto !important;
+    margin: auto;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+}
+.card-image {
+    height: auto !important;
+    margin-bottom: 20px;
+}
+.searcher {
+    position: fixed;
+    top: 32px;
+    right: 135px;
+    z-index: 99;
+    width: 200px;
+}
+html, body {
+    display: grid;
+}
+.card-content .media-right {
+    margin-left: 1rem;
+    float: left;
+    margin-left: 0px;
+}
+.media {
+    margin-left: 0px;
+    padding-left: 0px;
+    display: flow-root;
+}
+.menu-list a.current {
+    background-color: #ffffff !important;
+    color: #363636 !important;
+    font-weight: bold;
+    border-left: 5px solid #e07000;
+}
+html, body {
+    background: #ffffff !important;
+}

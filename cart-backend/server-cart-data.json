@@ -1,0 +1,161 @@
+[
+    {
+        "id": 1,
+        "attributes": [
+            {
+                "id": 2,
+                "name": "gato",
+                "icon": "http://sva.talana.com:8000/media/cat.png"
+            }
+        ],
+        "category": {
+            "id": 1,
+            "name": "Alimentos",
+            "order": 1
+        },
+        "title": "Alimento Gato Gordo",
+        "code": "fatcat001",
+        "abstract": "Alimento para gatos gordos",
+        "description": "REAL MEAT FIRST: Blue Buffalo dry cat food always features real meat as the first ingredient. High-quality protein from real chicken helps your cat maintain strong muscles. Plus, it contains wholesome whole grains, garden veggies and fruit.\r\n    FOR WEIGHT MANAGEMENT: Our weight control cat food is made with an optimal blend of protein and calories to help your cat achieve and maintain an ideal body weight. Plus, it contains omega 3 & 6 fatty acids to promote a shiny coat and healthy skin.\r\n    WITH LIFESOURCE BITS: This formula contains BLUE’s exclusive LifeSource Bits – a precise blend of antioxidants, vitamins and minerals carefully selected by holistic veterinarians and animal nutritionists, to support immune system health, life stage requirements, and a healthy oxidative balance.\r\n    NATURAL CAT FOOD: BLUE dry cat food is formulated for the health and well-being of your cat and features the finest natural ingredients enhanced with vitamins and minerals. It never contains chicken (or poultry) by-product meals, corn, wheat, soy, artificial flavors or preservatives.\r\n    Contains one (1) 7 lb. bag of BLUE Weight Control Natural Adult Dry Cat Food, Chicken & Brown Rice",
+        "price": 15188,
+        "image_tag": "http://sva.talana.com:8000/media/fatcat.png",
+        "quantity": 124
+    },
+    {
+        "id": 2,
+        "attributes": [
+            {
+                "id": 2,
+                "name": "gato",
+                "icon": "http://sva.talana.com:8000/media/cat.png"
+            }
+        ],
+        "category": {
+            "id": 1,
+            "name": "Alimentos",
+            "order": 1
+        },
+        "title": "Alimento Gato Normal",
+        "code": "normalcat001",
+        "stock": 2,
+        "abstract": "Alimento para gatos normales",
+        "description": "Cat food that supports the entire urinary system with optimal levels of magnesium\r\n    A good source of natural fiber to help comfortably reduce hairballs in cats\r\n    Supports healthy skin and coat with Omega 6s and vitamin E\r\n    High quality protein to help your cat maintain muscle\r\n    Made with natural ingredients; Caloric Content: 3681 kcal/kilogram (324 kcal/Cup)\r\n    Made in the USA with global ingredients you can trust\r\n    No:1 Veterinarian Recommended",
+        "price": 12200,
+        "image_tag": "http://sva.talana.com:8000/media/normalcat.jpeg",
+        "quantity": 3
+    },
+    {
+        "id": 3,
+        "attributes": [
+            {
+                "id": 2,
+                "name": "Perro",
+                "icon": "http://sva.talana.com:8000/media/dog.png"
+            }
+        ],
+        "category": {
+            "id": 1,
+            "name": "Alimentos",
+            "order": 1
+        },
+        "title": "Alimento Perro Gordo",
+        "code": "fatdog001",
+        "stock": 0,
+        "abstract": "Alimento para perros gorditos",
+        "description": "This adult dry dog food promotes digestive health while nourishing skin\r\n    A source of prebiotic fiber to support a balanced gut microbiome in your grown dog\r\n    This dog food is formulated to be highly digestible for optimal nutrient absorption and easier stool pick up\r\n    Packed with vitamin E and Omega 6 fatty acids to help your grown dog get a lusterous coat and healthy skin\r\n    Made with natural ingredients\r\n    Made in the USA with global ingredients you can trust\r\n    No.1 Veterinarian Recommended",
+        "price": 18200,
+        "image_tag": "http://sva.talana.com:8000/media/perrogordo.jpg",
+        "quantity": 3
+    },
+    {
+        "id": 4,
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Vegano",
+                "icon": "http://sva.talana.com:8000/media/vegan.png"
+            },
+            {
+                "id": 3,
+                "name": "Perro",
+                "icon": "http://sva.talana.com:8000/media/dog.png"
+            }
+        ],
+        "category": {
+            "id": 1,
+            "name": "Alimentos",
+            "order": 1
+        },
+        "title": "Alimento para perros veganos",
+        "code": "vegandog001",
+        "stock": 180,
+        "abstract": "Alimento elaborado en base a pasto y zanahorias, apto para perros que no pueden comer carnita.",
+        "description": "This adult dry dog food promotes digestive health while nourishing skin\r\nA source of prebiotic fiber to support a balanced gut microbiome in your grown dog\r\nThis dog food is formulated to be highly digestible for optimal nutrient absorption and easier stool pick up\r\nPacked with vitamin E and Omega 6 fatty acids to help your grown dog get a lusterous coat and healthy skin\r\nMade with natural ingredients\r\nMade in the USA with global ingredients you can trust\r\nNo.1 Veterinarian Recommended",
+        "price": 24320,
+        "image_tag": "http://sva.talana.com:8000/media/vegandog.jpg",
+        "quantity": 186
+    },
+    {
+        "id": 5,
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Vegano",
+                "icon": "http://sva.talana.com:8000/media/vegan.png"
+            },
+            {
+                "id": 3,
+                "name": "Perro",
+                "icon": "http://sva.talana.com:8000/media/dog.png"
+            }
+        ],
+        "category": {
+            "id": 2,
+            "name": "Juguetes",
+            "order": 2
+        },
+        "title": "Ardillas para moder",
+        "code": "toy001",
+        "stock": 100,
+        "abstract": "Fun Characters - Dogs will have hours of fun playing with 3 adorable woodland creatures such as the fox, raccoon, and squirrel",
+        "description": "Fun Characters - Dogs will have hours of fun playing with 3 adorable woodland creatures such as the fox, raccoon, and squirrel\r\n\r\n    Exclusive Noisemakers - Each large toy includes 3 high-quality round squeakers to deliver more sound to keep your best friend entertained\r\n\r\n    Durable Toys - Skinny Peltz dog toys contain no stuffing to ensure they last longer for a mess free fun both for you and your pup\r\n\r\n    Just The Right Size - This fun filled plush set is 18 inches long, the perfect size for medium dogs of all life stages\r\n    Unique Design - Beautifully-designed, high-quality pet products for the modern dog and dog owner",
+        "price": 5500,
+        "image_tag": "http://sva.talana.com:8000/media/juguete-perro-001.jpg",
+        "quantity": 2
+    },
+    {
+        "id": 6,
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Vegano",
+                "icon": "http://sva.talana.com:8000/media/vegan.png"
+            },
+            {
+                "id": 2,
+                "name": "gato",
+                "icon": "http://sva.talana.com:8000/media/cat.png"
+            }
+        ],
+        "category": {
+            "id": 2,
+            "name": "Juguetes",
+            "order": 2
+        },
+        "title": "Petstages Cat Tracks Cat Toy - Fun Levels of Interactive Play - Circle Track with Moving Balls Satisfies Kitty’s Hunting, Chasin",
+        "code": "toy002",
+        "stock": 2,
+        "abstract": "MENTALLY ENGAGING TRACKS TOY: This interactive cat toy is designed with 3 levels of tracks and 3 brightly colored moving balls to attract kitty’s attention! Your cat will adore batting, swatting, and pouncing the bright colored balls as they engage their natural instincts to hunt.",
+        "description": "MENTALLY ENGAGING TRACKS TOY: This interactive cat toy is designed with 3 levels of tracks and 3 brightly colored moving balls to attract kitty’s attention! Your cat will adore batting, swatting, and pouncing the bright colored balls as they engage their natural instincts to hunt.\r\n\r\nGREAT FOR SINGLE & MULTIPLE CAT HOUSEHOLDS: Whether you have one cat or more, the Tower of Tracks will keep your furry friends enticed with bright colors and spinning balls.\r\n\r\nUNIQUE SAFETY BAR DESIGN: A small safety bar across the top central opening keeps overly curious kitties from getting stuck while playing with this track toy.\r\n\r\nSTURY CONSTRUCTION & NON-SLIP BASE: Durable plastic and a non-slip base hold the Tower of Tracks in place during vigorous play.\r\n\r\nPLAY IT SAFE: No toy is indestructible. Do not leave toys with unsupervised pets. Remove and replace toy if damaged.",
+        "price": 18200,
+        "image_tag": "http://sva.talana.com:8000/media/juegue-gato-001.jpg",
+        "quantity": 2
+    },
+    {
+        "title": "Alimento Gato Gordo",
+        "description": "REAL MEAT FIRST: Blue Buffalo dry cat food always features real meat as the first ingredient. High-quality protein from real chicken helps your cat maintain strong muscles. Plus, it contains wholesome whole grains, garden veggies and fruit.\r\n    FOR WEIGHT MANAGEMENT: Our weight control cat food is made with an optimal blend of protein and calories to help your cat achieve and maintain an ideal body weight. Plus, it contains omega 3 & 6 fatty acids to promote a shiny coat and healthy skin.\r\n    WITH LIFESOURCE BITS: This formula contains BLUE’s exclusive LifeSource Bits – a precise blend of antioxidants, vitamins and minerals carefully selected by holistic veterinarians and animal nutritionists, to support immune system health, life stage requirements, and a healthy oxidative balance.\r\n    NATURAL CAT FOOD: BLUE dry cat food is formulated for the health and well-being of your cat and features the finest natural ingredients enhanced with vitamins and minerals. It never contains chicken (or poultry) by-product meals, corn, wheat, soy, artificial flavors or preservatives.\r\n    Contains one (1) 7 lb. bag of BLUE Weight Control Natural Adult Dry Cat Food, Chicken & Brown Rice",
+        "price": 15188,
+        "image_tag": "http://sva.talana.com:8000/media/fatcat.png",
+        "quantity": 9
+    }
+]
